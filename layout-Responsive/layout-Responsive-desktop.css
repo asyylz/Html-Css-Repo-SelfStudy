@@ -68,13 +68,9 @@ img {
   width: 100%;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 2.25rem;
 }
 
-@media(min-width: 1024px) {
-  .container {
-    padding-top: 2.25rem;
-  }
-}
 
 @media (min-width: 1320px) {
   .container {
@@ -89,29 +85,17 @@ img {
 }
 
 .images {
-  grid-area: numerology;
-}
-
-.numbering {
-  grid-area: numerology;
-}
-
-.text {
-  grid-area: text;
-}
-
-.single-image {
-  display: none;
-}
-
-
-.images {
   grid-area: images;
 }
 
 .numbering {
   grid-area: numbering;
 }
+
+.text {
+  grid-area: text;
+}
+
 
 /* // there are two versions for the layout on desktop - version-a and version-b */
 .version-a {
@@ -153,12 +137,11 @@ img {
   }
 }
 
+/* // grid for the part with 3 images on desktop */
 .grid {
   display: grid;
 }
-
-/* // grid for the part with 3 images on desktop */
-.image-grid-3-m4 {
+.image-grid-3left-1right {
   grid-template-rows: repeat(11, 63px);
   grid-template-columns: repeat(8, minmax(0, 1fr));
   row-gap: 1rem;
@@ -172,7 +155,6 @@ img {
   .image-1 {
     grid-column: 5 / span 4;
     grid-row: 2 / span 5;
-
     padding-right: 45px;
   }
 
@@ -273,6 +255,7 @@ img {
   aspect-ratio: 1/1;
   padding-left: 3.75rem;
   align-self: center;
+  
 }
 
 .image-5 {
