@@ -1,0 +1,76 @@
+.card {
+    display: grid;
+    place-items: center;
+    width: 80vw; /* 80vw: Represents 80% of the viewport width. */
+    max-width: 21.875rem;
+    height: 31.25rem;
+    overflow: hidden;  /* overflow: Specifies how content should behave when it overflows the box. */
+                       /* hidden: The content is clipped and hidden, and no scrollbars are displayed.*/
+   border-radius: 0.625rem; 
+   box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+.card > * {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
+.card-background {
+    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+}  
+
+.card-content {
+    --flow-space: 0.9375rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: flex-end;
+    height: 55%;
+    padding: 12% 1.25rem 1.875rem;
+    background: linear-gradient(
+      180deg,
+      hsla(0, 0%, 0%, 0) 0%,
+      hsla(0, 0%, 0%, 0.3) 10%,
+      hsl(0, 0%, 0%) 100%
+    );
+  }
+  
+  .card-content-container {
+    --flow-space: 1.25rem;
+  }
+
+  .card-title {
+    position: relative;
+    width: fit-content;
+    width: -moz-fit-content;
+  }
+
+  .card-title::after {
+    content: "";
+    position: absolute;
+    height: 0.3125rem;
+    width: calc(100% + 1.25rem);
+    bottom: calc((1.25rem - 0.5rem) * -1);
+    left: -1.25rem;
+    background-color: var(--brand-color);
+  }
+  
+  .card-button {
+    padding: 0.75em 1.6em;
+    width: fit-content;
+    width: -moz-fit-content; /* Prefijo necesario para Firefox  */
+    font-variant: small-caps;
+    font-weight: bold;
+    border-radius: 0.45em;
+    border: none;
+    background-color: var(--brand-color);
+    font-family: var(--font-title);
+    font-size: 1.125rem;
+    color: var(--black);
+  }
+
+  .card-button:focus {
+    outline: 2px solid black;
+    outline-offset: -5px;
+  }
