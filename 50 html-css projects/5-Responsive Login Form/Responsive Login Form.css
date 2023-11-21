@@ -1,0 +1,132 @@
+/* Importing Google Font "Poppins" with varying font weights */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: #EBCABF;
+    overflow: hidden;  /* behave when content does not fit in the parent element box (overflows) in the horizontal and/or vertical direction. */
+}
+::selection{
+    background: rgba(230, 147, 140, 0.25);
+  }
+
+.container {
+    max-width: 440px;
+    padding: 0 20px;
+    margin: 170px auto;
+}
+
+.wrapper {
+    width: 100%;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px 1px rgba(0, 0, 0, 0.1);
+}
+
+.wrapper .title {
+    line-height: 90px;
+    background: #E6938C;
+    border-radius: 10px 10px 0 0;
+    color: rgba(177, 235, 228, 0.7);
+    font-weight: 600;
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.wrapper form {
+    padding: 30px 25px 25px 25px;
+}
+
+.wrapper form .row {
+    height: 45px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.wrapper form .row input {
+    height: 100%;
+    width: 100%;
+    padding-left: 60px;
+    outline: none;  /* Remove the default focus outline */
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    font-size: 16px;
+    transition: all 0.3s ease; /* Apply a smooth transition for all properties over 0.3s */
+
+}
+
+form .row input:focus {
+    border-color: #E6938C;
+    box-shadow: inset 0px 0px 5px 5px rgba(230, 147, 140, 0.25);
+}
+
+form .row input::placeholder {
+    color: #999;
+}
+
+.wrapper form .row i {
+    position: absolute;
+    width: 47px;
+    height: 100%;
+    font-size: 18px;
+    color: rgba(177, 235, 228, 0.7);
+    background: #E6938C;
+    border: 1px solid #E6938C;
+    border-radius: 5px 0 0 5px;  /* only left side of the icons given radius */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper form .pass {
+    margin: -8px 0 20px 0;
+}
+
+.wrapper form .pass a {
+    color: #E6938C;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.wrapper form .pass a:hover {
+    text-decoration: underline;
+}
+
+.wrapper form .button input {
+    color: rgba(177, 235, 228, 0.7);
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0; /* previous padding  from input canceled for this item to center it */
+    background: #E6938C;
+    border: 1px solid #E6938C;
+    cursor: pointer;
+
+}
+
+form .button input:hover {
+    background: #b5706afa;
+}
+
+.wrapper form .signup-link {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.wrapper form .signup-link a {
+    color: #E6938C;
+    text-decoration: none;
+}
+
+form .signup-link a:hover {
+    text-decoration: underline;
+}
