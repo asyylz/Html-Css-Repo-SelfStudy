@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Espresso-poruing-from-coffee-machine-at-cafe-1-hex { color: #262225; }
+.Espresso-poruing-from-coffee-machine-at-cafe-2-hex { color: #A6754B; }
+.Espresso-poruing-from-coffee-machine-at-cafe-3-hex { color: #D9BCA3; }
+.Espresso-poruing-from-coffee-machine-at-cafe-4-hex { color: #D9805F; }
+.Espresso-poruing-from-coffee-machine-at-cafe-5-hex { color: #8C4A3B; }
+
+/* Color Theme Swatches in RGBA */
+.Espresso-poruing-from-coffee-machine-at-cafe-1-rgba { color: rgba(38, 33, 37, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-2-rgba { color: rgba(165, 117, 74, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-3-rgba { color: rgba(216, 187, 162, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-4-rgba { color: rgba(216, 127, 95, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-5-rgba { color: rgba(140, 73, 58, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Espresso-poruing-from-coffee-machine-at-cafe-1-hsla { color: hsla(315, 6, 14, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-2-hsla { color: hsla(28, 37, 47, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-3-hsla { color: hsla(28, 41, 74, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-4-hsla { color: hsla(16, 61, 61, 1); }
+.Espresso-poruing-from-coffee-machine-at-cafe-5-hsla { color: hsla(11, 40, 39, 1); }
