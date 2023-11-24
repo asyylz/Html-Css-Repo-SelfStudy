@@ -19,7 +19,8 @@ header nav {
     left: 0;
     top: 0;
     width: 100%;
-    z-index: 2000;
+    z-index: 200;
+  
 }
 
 nav .navbar {
