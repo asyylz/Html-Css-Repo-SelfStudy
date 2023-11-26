@@ -33,7 +33,7 @@ body {
    position: relative;
 }
 
-.container form .title::before {
+.container form .title::after {
    content: "";
    position: absolute;
    height: 4px;
