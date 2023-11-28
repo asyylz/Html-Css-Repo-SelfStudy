@@ -34,5 +34,5 @@
 # 17-Animated Navigation Menu Bar Hover Effect
 ![project](/50%20html-css%20projects/0-Screen%20Shots/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect.jpg)
 # 19-Loader
-![project](/0-Screen%20Shots/19-Loader.jpg)
+![project](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)
 
