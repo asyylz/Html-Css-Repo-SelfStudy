@@ -37,3 +37,5 @@
 ![project](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)
 # 20-Image Hover Animation 
 ![project](/50%20html-css%20projects/0-Screen%20Shots/20-Image%20Hover%20Animation%20.jpg)
+# 21-Animated Skill Bar
+![project](/50%20html-css%20projects/0-Screen%20Shots/21-Animated%20Skill%20Bar.jpg)
