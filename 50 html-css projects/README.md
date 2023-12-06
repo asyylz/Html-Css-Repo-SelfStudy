@@ -45,3 +45,5 @@
 ![project](/50%20html-css%20projects/0-Screen%20Shots/23-Popout%20Model%20Box.jpg)
 # 24-Responsive Neumorphism Navigation Menu Bar
 ![project](/50%20html-css%20projects/0-Screen%20Shots/24-Responsive%20Neumorphism%20Navigation%20Menu%20Bar.jpg)
+# 25-Responsive Footer
+![project](/50%20html-css%20projects/0-Screen%20Shots/25-Responsive%20Footer.jpg)
