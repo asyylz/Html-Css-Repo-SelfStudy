@@ -94,3 +94,5 @@
 ![project](/50%20html-css%20projects/0-Screen%20Shots/25-Responsive%20Footer.jpg)
 
 # 26-3D Flipping Animation
+
+![project](/50%20html-css%20projects/0-Screen%20Shots/26-3D%20Flipping%20Animation.jpg)
