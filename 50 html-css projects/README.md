@@ -1,9 +1,6 @@
 | Project Name | Description | Live Demo |
 |--------------|-------------|-----------|
-| [1-Responsive Profile Card](#) | Description of project 1 | [Demo](![projects](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)) |
-| [2-Credit Card Design](#) | Description of project 2 | [Demo](
-![projects](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)) |
-| [3-Flipping Card](#) | Description of project 3 | [Demo](![projects](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg)) |
+| [1-Responsive Profile Card](![projects](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)) | Description of project 1 | [Demo](![projects](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)) |
 
 
 # Previews of Outcomes
