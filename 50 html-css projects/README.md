@@ -1,12 +1,12 @@
 | Project Name | Demo Link | Preview |
 |--------------|-----------|---------|
-| project-1    | [Demo](#) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
+| project-1    | [1-Responsive Profile Card](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/5510abe1983f5fba8c9f0b1496e570e2f6682ccd/50%20html-css%20projects/1-Responsive%20Profile%20Card) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
 | Project 2    | [Demo](#) | ![Project 2 Preview](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)|
 | Project 3    | [Demo](#) | ![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg) |
 | Project 25   | [Demo](#) | ![Project 4 Preview](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg) |
 | Project 26   | [Demo](#) | ![Project 5 Preview](/50%20html-css%20projects/0-Screen%20Shots/5-Responsive%20Login%20Form.jpg) |
 
-[Explore the Repository](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/5510abe1983f5fba8c9f0b1496e570e2f6682ccd/50%20html-css%20projects)
+
 
 
 # Previews of Outcomes
