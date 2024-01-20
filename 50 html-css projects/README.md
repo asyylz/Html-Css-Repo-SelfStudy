@@ -13,13 +13,12 @@
 |[10-Vertical Tabs]()|![Project 10 Preview](/50%20html-css%20projects/0-Screen%20Shots/10-Vertical%20tabs.jpg)|
 |[11-Simple Portfolio Website]()|![Project 11 Preview](/50%20html-css%20projects/0-Screen%20Shots/11-Simple%20Portfolio%20Website.jpg)|
 |[12-Text Animated Login Page]()|![Project 12 Preview](/50%20html-css%20projects/0-Screen%20Shots/12-Text%20Animated%20Login%20Page.jpg)|
-|[]()|![Project 13 Preview]|
-|[]()|![Project 14 Preview]|
-|[]()|![Project 15 Preview]|
-|[]()|![Project 16 Preview]|
-|[]()|![Project 17 Preview]|
-|[]()|![Project 18 Preview]|
-|[]()|![Project 19 Preview]|
+|[14-Glassmorphisim Website]()|![Project 14 Preview](/50%20html-css%20projects/0-Screen%20Shots/13-Glassmorphisim%20Website.jpg)|
+|[15-Vertical Tab DesignSimple Portfolio]()|![Project 15 Preview](/50%20html-css%20projects/0-Screen%20Shots/15-Vertical%20Tab%20DesignSimple%20Portfolio.jpg)|
+|[16-3D Flip Card on Hover]()|![Project 16 Preview](/50%20html-css%20projects/0-Screen%20Shots/16-3D%20Flip%20Card%20on%20Hover.jpg)|
+|[17-Animated Navigation Menu Bar Hover Effect]()|![Project 17 Preview](/50%20html-css%20projects/0-Screen%20Shots/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect.jpg)|
+|[19-Loader]()|![Project 18 Preview](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)|
+|[20-Image Hover Animation]()|![Project 19 Preview](/50%20html-css%20projects/0-Screen%20Shots/20-Image%20Hover%20Animation%20.jpg)|
 |[]()|![Project 20 Preview]|
 |[]()|![Project 21 Preview]|
 |[]()|![Project 22 Preview]|
@@ -30,29 +29,11 @@
 
 
 
-# 14-Glassmorphisim Website
+![project]
 
-![project](/50%20html-css%20projects/0-Screen%20Shots/13-Glassmorphisim%20Website.jpg)
+# 
 
-# 15-Vertical Tab DesignSimple Portfolio
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/15-Vertical%20Tab%20DesignSimple%20Portfolio.jpg)
-
-# 16-3D Flip Card on Hover
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/16-3D%20Flip%20Card%20on%20Hover.jpg)
-
-# 17-Animated Navigation Menu Bar Hover Effect
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect.jpg)
-
-# 19-Loader
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)
-
-# 20-Image Hover Animation
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/20-Image%20Hover%20Animation%20.jpg)
+![project]
 
 # 21-Animated Skill Bar
 
