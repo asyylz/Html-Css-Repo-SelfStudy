@@ -1,6 +1,6 @@
 | Project Name | Demo Link | Preview |
 |--------------|-----------|---------|
-| project-1    | [Demo](#) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
+| project-1    | [Demo](50 html-css projects/1-Responsive Profile Card) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
 | Project 2    | [Demo](#) | ![Project 2 Preview](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)|
 | Project 3    | [Demo](#) | ![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg) |
 | Project 25   | [Demo](#) | ![Project 4 Preview](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg) |
