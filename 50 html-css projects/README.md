@@ -10,51 +10,21 @@
 |[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-close.jpg)|
 |[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-open.jpg)|
 |[9-Login Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/9-Login%20Form-Gradient)|![Project 9 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
-|[10-Vertical Tabs]()|![Project 10 Preview](/50%20html-css%20projects/0-Screen%20Shots/10-Vertical%20tabs.jpg)|
-|[11-Simple Portfolio Website]()|![Project 11 Preview](/50%20html-css%20projects/0-Screen%20Shots/11-Simple%20Portfolio%20Website.jpg)|
-|[12-Text Animated Login Page]()|![Project 12 Preview](/50%20html-css%20projects/0-Screen%20Shots/12-Text%20Animated%20Login%20Page.jpg)|
-|[14-Glassmorphisim Website]()|![Project 14 Preview](/50%20html-css%20projects/0-Screen%20Shots/13-Glassmorphisim%20Website.jpg)|
-|[15-Vertical Tab DesignSimple Portfolio]()|![Project 15 Preview](/50%20html-css%20projects/0-Screen%20Shots/15-Vertical%20Tab%20DesignSimple%20Portfolio.jpg)|
-|[16-3D Flip Card on Hover]()|![Project 16 Preview](/50%20html-css%20projects/0-Screen%20Shots/16-3D%20Flip%20Card%20on%20Hover.jpg)|
-|[17-Animated Navigation Menu Bar Hover Effect]()|![Project 17 Preview](/50%20html-css%20projects/0-Screen%20Shots/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect.jpg)|
-|[19-Loader]()|![Project 18 Preview](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)|
+|[10-Vertical Tabs](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/10-Vertical%20Tabs)|![Project 10 Preview](/50%20html-css%20projects/0-Screen%20Shots/10-Vertical%20tabs.jpg)|
+|[11-Simple Portfolio Website](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/11-Simple%20Portfolio%20Website)|![Project 11 Preview](/50%20html-css%20projects/0-Screen%20Shots/11-Simple%20Portfolio%20Website.jpg)|
+|[12-Text Animated Login Page](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/12-Text%20Animated%20Login%20Page)|![Project 12 Preview](/50%20html-css%20projects/0-Screen%20Shots/12-Text%20Animated%20Login%20Page.jpg)|
+|[14-Glassmorphisim Website](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/14-Glassmorphisim%20Website)|![Project 14 Preview](/50%20html-css%20projects/0-Screen%20Shots/13-Glassmorphisim%20Website.jpg)|
+|[15-Vertical Tab DesignSimple Portfolio](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/15-Vertical%20Tab%20DesignSimple%20Portfolio)|![Project 15 Preview](/50%20html-css%20projects/0-Screen%20Shots/15-Vertical%20Tab%20DesignSimple%20Portfolio.jpg)|
+|[16-3D Flip Card on Hover](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/16-3D%20Flip%20Card%20on%20Hover)|![Project 16 Preview](/50%20html-css%20projects/0-Screen%20Shots/16-3D%20Flip%20Card%20on%20Hover.jpg)|
+|[17-Animated Navigation Menu Bar Hover Effect](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect)|![Project 17 Preview](/50%20html-css%20projects/0-Screen%20Shots/17-Animated%20Navigation%20Menu%20Bar%20Hover%20Effect.jpg)|
+|[19-Loader](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/4d314b0131ddbe06ce17a14a727f8e64eea18a10/50%20html-css%20projects/19-Loader%20)|![Project 18 Preview](/50%20html-css%20projects/0-Screen%20Shots/19-Loader.jpg)|
 |[20-Image Hover Animation]()|![Project 19 Preview](/50%20html-css%20projects/0-Screen%20Shots/20-Image%20Hover%20Animation%20.jpg)|
-|[]()|![Project 20 Preview]|
-|[]()|![Project 21 Preview]|
-|[]()|![Project 22 Preview]|
-|[]()|![Project 23 Preview]|
-|[]()|![Project 24 Preview]|
-|[]()|![Project 25 Preview]|
-|[]()|![Project 26 Preview]|
+|[21-Animated Skill Bar]()|![Project 20 Preview](/50%20html-css%20projects/0-Screen%20Shots/21-Animated%20Skill%20Bar.jpg)|
+|[22-Responsive Contact Us Form]()|![Project 21 Preview](/50%20html-css%20projects/0-Screen%20Shots/22-Responsive%20Contact%20Us%20Form.jpg)|
+|[23-Popout Model Box]()|![Project 22 Preview](/50%20html-css%20projects/0-Screen%20Shots/23-Popout%20Model%20Box.jpg)|
+|[24-Responsive Neumorphism Navigation Menu Bar]()|![Project 23 Preview](/50%20html-css%20projects/0-Screen%20Shots/24-Responsive%20Neumorphism%20Navigation%20Menu%20Bar.jpg)|
+|[25-Responsive Footer]()|![Project 24 Preview](/50%20html-css%20projects/0-Screen%20Shots/25-Responsive%20Footer.jpg)|
+|[26-3D Flipping Animation]()|![Project 25 Preview](/50%20html-css%20projects/0-Screen%20Shots/26-3D%20Flipping%20Animation.jpg)|
 
 
 
-![project]
-
-# 
-
-![project]
-
-# 21-Animated Skill Bar
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/21-Animated%20Skill%20Bar.jpg)
-
-# 22-Responsive Contact Us Form
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/22-Responsive%20Contact%20Us%20Form.jpg)
-
-# 23-Popout Model Box
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/23-Popout%20Model%20Box.jpg)
-
-# 24-Responsive Neumorphism Navigation Menu Bar
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/24-Responsive%20Neumorphism%20Navigation%20Menu%20Bar.jpg)
-
-# 25-Responsive Footer
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/25-Responsive%20Footer.jpg)
-
-# 26-3D Flipping Animation
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/26-3D%20Flipping%20Animation.jpg)
