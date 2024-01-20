@@ -1,8 +1,11 @@
-| Folder       | Project Name | Demo Link | Preview |
-|--------------|--------------|-----------|---------|
-| project-1    |1-Responsive Profile Card    | [Demo](#) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg) |
-| project-2    | 2-Credit Card Design    | [Demo](#) | ![Project 2 Preview](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg) |
-| project-3    | 3-Flipping Card    | [Demo](#) | ![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg) |
+| Project Name | Demo Link | Preview |
+|--------------|-----------|---------|
+| project-1    | [Demo](#) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
+| Project 2    | [Demo](#) | ![Project 2 Preview](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)|
+| Project 3    | [Demo](#) | ![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg) |
+| Project 25   | [Demo](#) | ![Project 4 Preview](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg) |
+| Project 26   | [Demo](#) | ![Project 5 Preview](/50%20html-css%20projects/0-Screen%20Shots/5-Responsive%20Login%20Form.jpg) |
+
 
 
 # Previews of Outcomes
