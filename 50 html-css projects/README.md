@@ -5,36 +5,21 @@
 |[3-Flipping Card](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/6c6ff447ecad01fd09dd1163a017118c549a8ad0/50%20html-css%20projects/3-Flipping%20Card) |![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg)|
 |[4-Create Sidebar](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/1f4c4fe08e91bc212c109283ed9ff607a93109e2/50%20html-css%20projects/4-Create%20Sidebar)|![Project 4 Preview](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg)|
 |[5-Responsive Login Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/1f4c4fe08e91bc212c109283ed9ff607a93109e2/50%20html-css%20projects/5-Responsive%20Login%20Form)|![Project 5 Preview](/50%20html-css%20projects/0-Screen%20Shots/5-Responsive%20Login%20Form.jpg)|
-|[3-Flipping Card] ()|![Project 4 Preview]()|
-|[3-Flipping Card] ()|![Project 4 Preview]()|
-|[3-Flipping Card] ()|![Project 4 Preview]()|
-|[3-Flipping Card] ()|![Project 4 Preview]()|
-|[3-Flipping Card] ()|![Project 4 Preview]()|
+|[6-Simple Website-Coffee House]()|![Project 6 Preview](/50%20html-css%20projects/0-Screen%20Shots/6-Asy%20Coffee%20House.jpeg)|
+|[7- Responsive Contact Us Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/7-%20Responsive%20Contact%20Us%20Form)|![Project 7 Preview](/50%20html-css%20projects/0-Screen%20Shots/7-%20Responsive%20Contact%20Us%20Form.jpg)|
+|[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-close.jpg)|
+|[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-open.jpg)|
+|[9-Login Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/9-Login%20Form-Gradient)|![Project 9 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
 
 
 
 
 
-# 
 
-![projects]
-
-# 6-Simple Website-Coffee House
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/6-Asy%20Coffee%20House.jpeg)
-
-# 7- Responsive Contact Us Form
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/7-%20Responsive%20Contact%20Us%20Form.jpg)
-
-# 8-Search Box
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-close.jpg)
-![project](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-open.jpg)
 
 # 9-Login Form
 
-![project](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)
+![project]
 
 # 10-Vertical Tabs
 
