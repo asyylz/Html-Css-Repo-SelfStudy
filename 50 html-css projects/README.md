@@ -3,32 +3,21 @@
 | [1-Responsive Profile Card](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/5510abe1983f5fba8c9f0b1496e570e2f6682ccd/50%20html-css%20projects/1-Responsive%20Profile%20Card) | ![Project 1 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
 | [2-Credit Card Design](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/6c6ff447ecad01fd09dd1163a017118c549a8ad0/50%20html-css%20projects/2-Credit%20Card%20Design)  | ![Project 2 Preview](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)|
 |[3-Flipping Card](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/6c6ff447ecad01fd09dd1163a017118c549a8ad0/50%20html-css%20projects/3-Flipping%20Card) |![Project 3 Preview](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg)|
+|[4-Create Sidebar](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/1f4c4fe08e91bc212c109283ed9ff607a93109e2/50%20html-css%20projects/4-Create%20Sidebar)|![Project 4 Preview](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg)|
+|[5-Responsive Login Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/1f4c4fe08e91bc212c109283ed9ff607a93109e2/50%20html-css%20projects/5-Responsive%20Login%20Form)|![Project 5 Preview](/50%20html-css%20projects/0-Screen%20Shots/5-Responsive%20Login%20Form.jpg)|
+|[3-Flipping Card] ()|![Project 4 Preview]()|
+|[3-Flipping Card] ()|![Project 4 Preview]()|
+|[3-Flipping Card] ()|![Project 4 Preview]()|
+|[3-Flipping Card] ()|![Project 4 Preview]()|
+|[3-Flipping Card] ()|![Project 4 Preview]()|
 
 
 
 
 
-# Previews of Outcomes
+# 
 
-# 1-Responsive Profile Card
-
-![projects](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)
-
-# 2-Credit Card Design
-
-![projects](/50%20html-css%20projects/0-Screen%20Shots/2-credit%20card%20design.jpg)
-
-# 3-Flipping Card
-
-![projects](/50%20html-css%20projects/0-Screen%20Shots/3-flipping-card.jpg)
-
-# 4-Create Sidebar
-
-![projects](/50%20html-css%20projects/0-Screen%20Shots/4-create%20sidebar.jpg)
-
-# 5-Responsive Login Form
-
-![projects](/50%20html-css%20projects/0-Screen%20Shots/5-Responsive%20Login%20Form.jpg)
+![projects]
 
 # 6-Simple Website-Coffee House
 
