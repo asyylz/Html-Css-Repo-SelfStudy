@@ -10,28 +10,25 @@
 |[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-close.jpg)|
 |[8-Search Box](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/8-Search%20Box)|![Project 8 Preview](/50%20html-css%20projects/0-Screen%20Shots/8-Search%20Box-open.jpg)|
 |[9-Login Form](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/45bbda586ad3968556b4ce89a2a8240fe3bffc15/50%20html-css%20projects/9-Login%20Form-Gradient)|![Project 9 Preview](/50%20html-css%20projects/0-Screen%20Shots/9-Login%20Form.jpg)|
+|[10-Vertical Tabs]()|![Project 10 Preview](/50%20html-css%20projects/0-Screen%20Shots/10-Vertical%20tabs.jpg)|
+|[11-Simple Portfolio Website]()|![Project 11 Preview](/50%20html-css%20projects/0-Screen%20Shots/11-Simple%20Portfolio%20Website.jpg)|
+|[12-Text Animated Login Page]()|![Project 12 Preview](/50%20html-css%20projects/0-Screen%20Shots/12-Text%20Animated%20Login%20Page.jpg)|
+|[]()|![Project 13 Preview]|
+|[]()|![Project 14 Preview]|
+|[]()|![Project 15 Preview]|
+|[]()|![Project 16 Preview]|
+|[]()|![Project 17 Preview]|
+|[]()|![Project 18 Preview]|
+|[]()|![Project 19 Preview]|
+|[]()|![Project 20 Preview]|
+|[]()|![Project 21 Preview]|
+|[]()|![Project 22 Preview]|
+|[]()|![Project 23 Preview]|
+|[]()|![Project 24 Preview]|
+|[]()|![Project 25 Preview]|
+|[]()|![Project 26 Preview]|
 
 
-
-
-
-
-
-# 9-Login Form
-
-![project]
-
-# 10-Vertical Tabs
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/10-Vertical%20tabs.jpg)
-
-# 11-Simple Portfolio Website
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/11-Simple%20Portfolio%20Website.jpg)
-
-# 12-Text Animated Login Page
-
-![project](/50%20html-css%20projects/0-Screen%20Shots/12-Text%20Animated%20Login%20Page.jpg)
 
 # 14-Glassmorphisim Website
 
