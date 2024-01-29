@@ -27,6 +27,7 @@
 |[24-Responsive Neumorphism Navigation Menu Bar](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/05caf8fab8e448b59bd1b019a96dbe4da829e978/50%20html-css%20projects/24-Responsive%20Neumorphism%20Navigation%20Menu%20Bar)|![Project 23 Preview](/50%20html-css%20projects/0-Screen%20Shots/24-Responsive%20Neumorphism%20Navigation%20Menu%20Bar.jpg)|
 |[25-Responsive Footer](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/05caf8fab8e448b59bd1b019a96dbe4da829e978/50%20html-css%20projects/25-Responsive%20Footer)|![Project 24 Preview](/50%20html-css%20projects/0-Screen%20Shots/25-Responsive%20Footer.jpg)|
 |[26-3D Flipping Animation](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/05caf8fab8e448b59bd1b019a96dbe4da829e978/50%20html-css%20projects/26-3D%20Flipping%20Animation)|![Project 25 Preview](/50%20html-css%20projects/0-Screen%20Shots/26-3D%20Flipping%20Animation.jpg)|![Project 26 Preview](/50%20html-css%20projects/0-Screen%20Shots/27-3D%20Flipping%20Animation.jpg)|
+|[27-Pointer Media Queries-Japan](https://github.com/asyylz/Html-Css-Repo-SelfStudy/tree/d01a096443e094142ff5c517a2600aad654649c8/50%20html-css%20projects/27-Pointer%20Media%20Queries-Japan)|![Project](https://github.com/asyylz/Html-Css-Repo-SelfStudy/blob/d01a096443e094142ff5c517a2600aad654649c8/50%20html-css%20projects/0-Screen%20Shots/27-Pointer%20Media%20Queries-Japan.jpg)
 
 
 
